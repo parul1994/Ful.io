@@ -1,0 +1,14 @@
+A. What is reverse-i-search in a Linux terminal?
+
+Ans A- It allows us to search through our history. Ctrl+R(reverse-i-search) is a incremental search. This commands searches for the query , you have provided,in backward direction in histroy.
+
+B. How do you list out the hidden directories using Linux command line tool?
+Ans B- To view hidden directories  we use ' $ ls -a ' command which enables viewing of all files in a directory.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans C- I just have intermediate knowledge on linux.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+Ans D- Yes i had used FTP server to host my web applications. FTP services i had set up in past.
